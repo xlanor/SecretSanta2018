@@ -1,0 +1,11 @@
+{
+    "Emails":[
+        {
+            "Name":"Jingkai",
+            "Email":"test@email.com"
+        },{
+            "Name":"Bla bla",
+            "Email":"test2@email.com"
+        }
+    ]
+}
